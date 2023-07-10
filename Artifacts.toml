@@ -5,7 +5,7 @@ os = "macos"
 
     [[zig.download]]
     sha256 = "93efa47b171b77a5ca2c05f580e7c0ae53327ce98d1a8831b35404166801f4cf"
-    url = "https://github.com/JuliaBinaryWrappers/zig_jll.jl/releases/download/zig-v0.9.1+0/zig.v0.9.1.aarch64-apple-darwin.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/zig_jll.jl/releases/download/zig-v0.9.1+1/zig.v0.9.1.aarch64-apple-darwin.tar.gz"
 [[zig]]
 arch = "aarch64"
 git-tree-sha1 = "1e3caff23b7613db241a7b5db2282d61a2985b78"
@@ -14,7 +14,7 @@ os = "linux"
 
     [[zig.download]]
     sha256 = "689abcbacff24f9131e3b831d55c34e6b9564bbecbc6175d173645cd4b81596d"
-    url = "https://github.com/JuliaBinaryWrappers/zig_jll.jl/releases/download/zig-v0.9.1+0/zig.v0.9.1.aarch64-linux-gnu.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/zig_jll.jl/releases/download/zig-v0.9.1+1/zig.v0.9.1.aarch64-linux-gnu.tar.gz"
 [[zig]]
 arch = "i686"
 git-tree-sha1 = "4af372bf888dafff163208c384029867bd30b5ac"
@@ -23,7 +23,7 @@ os = "linux"
 
     [[zig.download]]
     sha256 = "ccb682772322c053fd3e688b52cfa7487b266075b19cb248c4123739db2fd631"
-    url = "https://github.com/JuliaBinaryWrappers/zig_jll.jl/releases/download/zig-v0.9.1+0/zig.v0.9.1.i686-linux-gnu.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/zig_jll.jl/releases/download/zig-v0.9.1+1/zig.v0.9.1.i686-linux-gnu.tar.gz"
 [[zig]]
 arch = "i686"
 git-tree-sha1 = "1c3ea7db48a9e8d4f4f5bd0cfb607e9b70cab5e8"
@@ -31,7 +31,7 @@ os = "windows"
 
     [[zig.download]]
     sha256 = "cdde42a5cfcd581f58feff5a459636f309ab91add5b10b0108afe2d75fa1671e"
-    url = "https://github.com/JuliaBinaryWrappers/zig_jll.jl/releases/download/zig-v0.9.1+0/zig.v0.9.1.i686-w64-mingw32.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/zig_jll.jl/releases/download/zig-v0.9.1+1/zig.v0.9.1.i686-w64-mingw32.tar.gz"
 [[zig]]
 arch = "x86_64"
 git-tree-sha1 = "d77bc85fd30ca7ea47682c0e0e3fbc2ce604a07c"
@@ -39,7 +39,7 @@ os = "macos"
 
     [[zig.download]]
     sha256 = "58f6f7b94784b1c9e4271a97b60dc0ab68605aa28d31ba8fa8000978c93916e5"
-    url = "https://github.com/JuliaBinaryWrappers/zig_jll.jl/releases/download/zig-v0.9.1+0/zig.v0.9.1.x86_64-apple-darwin.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/zig_jll.jl/releases/download/zig-v0.9.1+1/zig.v0.9.1.x86_64-apple-darwin.tar.gz"
 [[zig]]
 arch = "x86_64"
 git-tree-sha1 = "b2addf2ee23d48d09a882355c27e460badbac26f"
@@ -48,7 +48,7 @@ os = "linux"
 
     [[zig.download]]
     sha256 = "b7be70cf0847b979883dd37d7291b9d690b09846b7c3e22a6ae545b3278390c8"
-    url = "https://github.com/JuliaBinaryWrappers/zig_jll.jl/releases/download/zig-v0.9.1+0/zig.v0.9.1.x86_64-linux-gnu.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/zig_jll.jl/releases/download/zig-v0.9.1+1/zig.v0.9.1.x86_64-linux-gnu.tar.gz"
 [[zig]]
 arch = "x86_64"
 git-tree-sha1 = "68c2b6658e9aaa8ec546c7859d4ebc3a38c10e97"
@@ -56,7 +56,7 @@ os = "freebsd"
 
     [[zig.download]]
     sha256 = "cc32967961e4106ba60cd859c1bd0a2ef3754f5bef48b0b7b146428812341a43"
-    url = "https://github.com/JuliaBinaryWrappers/zig_jll.jl/releases/download/zig-v0.9.1+0/zig.v0.9.1.x86_64-unknown-freebsd.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/zig_jll.jl/releases/download/zig-v0.9.1+1/zig.v0.9.1.x86_64-unknown-freebsd.tar.gz"
 [[zig]]
 arch = "x86_64"
 git-tree-sha1 = "f47b29904e7da562004e1a98f210365d21223361"
@@ -64,4 +64,4 @@ os = "windows"
 
     [[zig.download]]
     sha256 = "4c6e6705d5adaeace251fbe428ab597bcc3a00879f1f27215f131d01917e4c92"
-    url = "https://github.com/JuliaBinaryWrappers/zig_jll.jl/releases/download/zig-v0.9.1+0/zig.v0.9.1.x86_64-w64-mingw32.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/zig_jll.jl/releases/download/zig-v0.9.1+1/zig.v0.9.1.x86_64-w64-mingw32.tar.gz"
